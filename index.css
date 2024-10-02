@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+  font-family: sans-serif;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  background: url(stopwatch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+span{
+  font-weight: bold;
+}
+.main-cont{
+  align-items: center;
+  margin: 100px;
+  background-color: rgba(255, 255, 255, 0.638);
+  width: 330px;
+  height: 300px;
+text-align: center;
+flex-direction: column;
+border-radius: 15px;
+box-shadow: 5px 5px 5px 5px rgb(135, 131, 131);
+
+
+  
+  
+
+}
